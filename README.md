@@ -1,4 +1,5 @@
 # RECOMMENDER_SYSTEMS
+
 # Recommender Systems - Recommending best movies - Popularity
 If the person has watched Star Wars, I can recommend Fargo.
 
@@ -6,3 +7,6 @@ If the person has watched Star Wars, I can recommend Fargo.
 
 # Movie Recommender by User Rating 
 It predicts the scores of the movies that the user did not give according to the movies that the user gave their ratings.
+
+# K-Neares Neighbors Recommendation
+Recommendation systems for a movie's similarity to other movies
